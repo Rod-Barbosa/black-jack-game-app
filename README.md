@@ -42,8 +42,8 @@ Users should be able to Code/Understand:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://rodrigo-blackjack-game-app.netlify.app/)
+- Solution URL: [https://github.com/Rod-Barbosa/black-jack-game-app](https://github.com/Rod-Barbosa/black-jack-game-app)
+- Live Site URL: [https://rodrigo-blackjack-game-app.netlify.app/](https://rodrigo-blackjack-game-app.netlify.app/)
 
 ## My process
 
